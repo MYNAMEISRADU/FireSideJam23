@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/RaduLevel.umap",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/DefaultLevel.umap",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/NewMaterial.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/DefaultLevel_BuiltData.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/InputMove.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/InputRight.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/InputLeft.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/InputBase.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/PCBase.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/PlayerCharacter.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/GMBase.uasset",
+				"C:/Users/radu4/OneDrive/Documents/Unreal Projects/FireSideJam2023/Content/BlankMaterial.uasset"
+			]
+		}
+	]
+}
